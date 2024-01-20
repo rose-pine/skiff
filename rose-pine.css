@@ -1,26 +1,33 @@
 body {
   --icon-destructive: rgb(235,111,146) !important;
+  --text-primary: rgb(224,222,244) !important;
 }
 .variable-size-list {
-  background: #1f1d2e;
+  background: #191724;
 }
 .sc-kkxqMQ.ioorGY {
-  background: #191724;
+  background: #1f1d2e;
 }
 .sc-eBzhNO.kuHgOJ {
-  background: #191724;
+  background: #1f1d2e;
 }
 .sc-bAhZh.GPMFV {
-  background: #191724;
+  background: #1f1d2e;
 }
 .sc-Dtwra.eHNvhw {
   background: #26233a;
+}
+.sc-kPFlNf.cWZRyH {
+  background: #1f1d2e;
 }
 .coZvNl path {
   fill: #ebbcba;
 }
 span {
   color: #e0def4;
+}
+p {
+  color: #e0def4 !important;
 }
 .sc-iAzEPL.gyaeQS {
   background: #26233a;
@@ -32,26 +39,35 @@ span {
   background: #403d52;
 }
 #threadBody {
-  background: #1f1d2e;
+  background: #191724;
 }
 .sc-imfVFo.doa-Due {
   background: #26233a;
 }
 #threadHeaderBackgroundId {
-  background: #1f1d2e !important;
+  background: #191724 !important;
 }
 .sc-imfVFo.JVBPY {
   background: #26233a !important;
+}
+.sc-bKURNj.gRDZrM {
+  background: #26233a;
 }
 [data-test=thread-block] {
   background: #26233a;
 }
 .sc-giYglK.jkdKTw:hover {
-  background: #b4637a;
+  background: #eb6f92;
 }
 .dlYBdw {
   background: rgba(180,99,122,0.3)
 }
 .sc-ioNTmh.jwbJxo {
   background: #524f67;
+}
+.ctScxr path {
+  fill: #c4a7e7;
+}
+.dfgYBp path {
+  fill: #31748f;
 }
