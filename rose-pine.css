@@ -25,7 +25,7 @@ span {
 .sc-iAzEPL.gyaeQS {
   background: #26233a;
 }
-.kDBuzx {
+.sc-pVTFL.kDBuzx {
   background: #31748f;
 }
 .sc-pVTFL.eMwRDw {
@@ -40,6 +40,9 @@ span {
 #threadHeaderBackgroundId {
   background: #1f1d2e !important;
 }
+.sc-imfVFo.JVBPY {
+  background: #26233a !important;
+}
 [data-test=thread-block] {
   background: #26233a;
 }
@@ -48,4 +51,7 @@ span {
 }
 .dlYBdw {
   background: rgba(180,99,122,0.3)
+}
+.sc-ioNTmh.jwbJxo {
+  background: #524f67;
 }
