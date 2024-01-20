@@ -13,34 +13,21 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+1. Add new userstyle for app.skiff.com
+2. Select dark theme
+3. Add the contents of `rose-pine.css` or `rose-pine-dawn.css` to your userstyle
 
 ## Gallery
 
-![Rosé Pine with App](https://user-images.githubusercontent.com/1474821/166155319-06796439-95a7-4aea-910e-927c1f24518e.png)
+![dash](https://github.com/ThatOneCalculator/skiff/assets/44733677/169d2d3e-d140-4ddf-a20f-f541f3a949a8)
+
+![message](https://github.com/ThatOneCalculator/skiff/assets/44733677/9339ed6c-a2b3-4552-b1d1-07054736907d)
+
 
 ## Thanks to
 
-- [You, it's you!](https://github.com/<username>)
+- [ThatOneCalculator](https://github.com/thatonecalculator)
 
-## Contributing
-
-> Prefer using [@rose-pine/build](https://github.com/rose-pine/build) when possible
-
-Modify `template.json` using Rosé Pine variables, then build variants:
-
-```sh
-npx @rose-pine/build@latest
-```
-
-## Style guide
-
-> Be sure to remove this section 😌
-
-- Lowercase meta files, eg. `readme.md`
-- Repo name should be the simplest version of the app name, eg. iterm instead of iTerm2
 - Add a description and topics to automatically show the theme on [rosepinetheme.com/themes](https://rosepinetheme.com/themes)
     - Description should read "Soho vibes for App" where "App" is the display name
     - Topics should include [existing categories](https://rosepinetheme.com/themes)
