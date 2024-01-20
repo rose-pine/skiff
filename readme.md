@@ -19,16 +19,15 @@
 
 ## Gallery
 
-![dash](https://github.com/ThatOneCalculator/skiff/assets/44733677/169d2d3e-d140-4ddf-a20f-f541f3a949a8)
+![inbox dark](https://github.com/ThatOneCalculator/skiff/assets/44733677/169d2d3e-d140-4ddf-a20f-f541f3a949a8)
 
-![message](https://github.com/ThatOneCalculator/skiff/assets/44733677/9339ed6c-a2b3-4552-b1d1-07054736907d)
+![message dark](https://github.com/ThatOneCalculator/skiff/assets/44733677/9339ed6c-a2b3-4552-b1d1-07054736907d)
+
+![inbox light](https://github.com/ThatOneCalculator/skiff/assets/44733677/51671e58-6d48-4f0c-8089-0274a6cbbed7)
+
+![message-light](https://github.com/ThatOneCalculator/skiff/assets/44733677/919c3a2d-2386-4e45-b1c8-0c3025e300d0)
 
 
 ## Thanks to
 
 - [ThatOneCalculator](https://github.com/thatonecalculator)
-
-- Add a description and topics to automatically show the theme on [rosepinetheme.com/themes](https://rosepinetheme.com/themes)
-    - Description should read "Soho vibes for App" where "App" is the display name
-    - Topics should include [existing categories](https://rosepinetheme.com/themes)
-    - Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)
